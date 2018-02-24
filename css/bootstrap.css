@@ -2470,7 +2470,7 @@ input[type="button"].btn-block {
   content: "\e020";
 }
 .glyphicon-home:before {
-: "\e021";
+  content: "\e021";
 }
 .glyphicon-file:before {
   content: "\e022";
@@ -5552,6 +5552,7 @@ button.close {
   width: 12px;
   height: 12px;
   margin: 0;
+  background-color: url(../images/pagenate.png) no-repeat 0px 0px;
 }
 .carousel-caption {
   position: absolute;
